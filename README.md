@@ -66,7 +66,7 @@ My name is Antonio Augusto! I'm from Paraná, Brazil, and I'm currently studying
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToniBoyzz&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToniBoyzz&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&cache_seconds=1800" 
   />
 </p>
 
